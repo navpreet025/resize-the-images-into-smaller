@@ -1,1 +1,1 @@
-# resize-the-images-into-smaller
+# resize-the-images-into-smaller using OpenCV
